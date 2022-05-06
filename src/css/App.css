@@ -1,0 +1,11 @@
+.App {
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    height: 100vh;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 12rem auto;
+
+}
